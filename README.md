@@ -1,2 +1,2 @@
 # testrepo
-learning
+learning git and github
